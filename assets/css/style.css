@@ -66,32 +66,20 @@ img {
     font-size: 20px;
     color: #177D8C;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
     background-color: #751877;
 }
 
-.work-content > div {
+.work-content .content {
     background-color: #552F75;
     margin: 10px;
-    padding: 20px;
-    flex-wrap: wrap;
-    text-align: center;
-}
-
-.work-content > div .left {
-    background-color: #552F75;
-    margin: auto;
-    padding: 20px;
-    flex: 50%;
-    text-align: center;
-}
-
-.work-content > div .right {
-    background-color: #552F75;
-    margin: auto;
-    padding: 20px;
-    flex: 50%;
-    text-align: center;
+    padding: 10px;
+    display: flex;
+    width: 600px;
+    justify-content: center;
+    align-items: center;
 }
 
 .contact-title {
@@ -112,9 +100,10 @@ img {
 
 .contact-content > div {
     background-color: #552F75;
-    margin: auto;
+    margin: 10px;
     padding: 20px;
-    flex-wrap: wrap;
+    display: flex;
+    width: 600px;
     text-align: center;
 }
 
