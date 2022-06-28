@@ -1,16 +1,16 @@
-# Portfolio
+# My Portfolio
 
 ## Description
 
-This website provides a snapshot of all of the coding languages that I know and are needed to take on the professional world. This website was made using HTML and CSS. Many challenges faced were regarding the CSS.  In the future, I would like to make this website more interactive.
+This website provides a snapshot of all of the coding languages that I know and are needed to take on in the professional world.  This website was made using HTML and CSS and many challenges faced were regarding the CSS structuring.  In the future, I would like to make this website more interactive.
 
 ## Installation
 
-To view this website, please click on the following live link: 
+To view this website, please click on the following link: 
 
 ## Usage
 
-One can use this website to gain a better understanding of my coding skills.
+A potential employer can view this website to gain a better understanding of my coding skills.
 
 ## Credits
 
