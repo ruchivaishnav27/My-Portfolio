@@ -18,8 +18,6 @@ Ruchi Vaishnav
 
 ## License
 
-MIT License
-
 Copyright (c) 2022 Ruchi Vaishnav
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
