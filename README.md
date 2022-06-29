@@ -6,7 +6,7 @@ This website provides a snapshot of all of the coding languages that I know and 
 
 ## Installation
 
-To view this website, please click on the following link: 
+To view this website, please click on the following link: https://ruchivaishnav27.github.io/Portfolio/
 
 ## Usage
 
